@@ -19,3 +19,15 @@ Structure of `assets` folder:
         - yolo11n.pt (`yolo mode=export model=yolo11n.pt format=torchscript optimize`)
 
 The icon was inspired by the orange tuft of [_Cinnyris osea_](https://enwp.org/Cinnyris_osea), the national bird of Palestine, to show my respect for her brave and noble people.
+
+# LICENSE
+```
+I DON'T KNOW
+```
+The pretrained model `yolo11n.pt` was adopted as the object detecting model and embedded in the app package. 
+
+`Ultralytics` was license under AGPLv3. I don't know if this license also applies to the pretrained weights. If it does, this project should use AGPLv3, right?
+
+I am looking for an alternative pretrained models. If I can find any, I might consider licensing this project under GPLv3.
+
+Because of the expenses (I don't have GPU on my computer, so I need to rent a GPU server), I currently do not consider training one by myself.
