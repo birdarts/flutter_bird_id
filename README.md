@@ -4,7 +4,7 @@
 
 Flutter app for offline bird identification
 
-For the detecting task, we uses pretrained model `yolo11n`, .
+For the detecting task, we uses pretrained model `yolo11n`.
 
 For the classification task, `ResNet34` model structure was adopted, take [MetaFGNet/L_Bird_pretrain/checkpoints](https://drive.google.com/drive/folders/1gsct7uWHYPfmNmFvLVHlgFqKOcoQRzs9) as a pretrained model, trained on [DongNiao DIB-10K](https://www.researchgate.net/publication/344639013).
 
@@ -28,6 +28,6 @@ The pretrained model `yolo11n.pt` was adopted as the object detecting model and 
 
 `Ultralytics` was license under AGPLv3. I don't know if this license also applies to the pretrained weights. If it does, this project should use AGPLv3, right?
 
-I am looking for an alternative pretrained models. If I can find any, I might consider licensing this project under GPLv3.
+I am looking for alternative pretrained models. If I can find any, I might consider licensing this project under GPLv3.
 
 Because of the expenses (I don't have GPU on my computer, so I need to rent a GPU server), I currently do not consider training one by myself.
