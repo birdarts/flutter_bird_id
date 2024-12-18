@@ -18,7 +18,7 @@ Structure of `assets` folder:
         - bird_model.pt (convert [model20240824.pth](https://github.com/sun-jiao/MetaFGNet/releases) using [export_model.py](https://github.com/sun-jiao/bio_image_downloader/blob/3154767593f591c3517aabd79bae3a83d057217c/export_model.py))
         - yolo11n.pt (`yolo mode=export model=yolo11n.pt format=torchscript optimize`)
 
-The icon was inspired by the orange tuft of [_Cinnyris osea_](https://enwp.org/Cinnyris_osea), the national bird of Palestine, to show my respect for her brave and noble people.
+The icon is inspired by Palestine’s national bird [_Cinnyris osea_](https://enwp.org/Cinnyris_osea) (particularly its orange tufts) as a tribute to the brave, heroic, noble and undefeatable people of Palestine.
 
 # LICENSE
 ```
